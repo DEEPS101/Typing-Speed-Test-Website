@@ -6,7 +6,7 @@ const setOfWords = [
 	"What is Benoit B. Mandelbrot's middle name? Benoiit B.Mandelbrot",
 	"Why are you always smiling? That's just my... regular expressions.",
 	"How come there is no obfuscated Perl contest? Because everyone would win.",
-	"Number of days since I have encountered am array index error:-1",
+	"Number of days since I have encountered an array index error:-1",
 	"Why do Java programmers have to wear glasses? Because they don't see sharp.",
 	"What did the JAVA code say to C code? A: You have no class.",
 	"Old C programmers don't lie,they're just cast into void.",
